@@ -19,7 +19,7 @@
 <br/>  
 
 
-## My Skill Set  
+## 🌠 My Skill Set  
 <table align="center"><tr><td valign="top" width="50%">
 
 
@@ -56,7 +56,7 @@
 <br/>  
 
 
-## Connect with me  
+## 🤝 Connect with me  
 <div align="center">
 <a href="https://github.com/mayhmemo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -79,11 +79,16 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mayhmemo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## 📊 Github Stats  
+<div align="center" style="flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayhmemo&show_icons=true&count_private=true&hide_border=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayhmemo&layout=compact&hide_border=true&theme=dracula"/>
+</div>
 
 <br/>  
 
+
+## 🎧 Listening
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mpg3xkzfn6fwp90k8uugqn53d&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true" /></div>  
 
 <br/>  
@@ -91,5 +96,17 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mayhmemo&&style=flat-square" align="center" />
 </div>  
+
+<br />
+
+<div align="center" style="flex">
+<img src="https://dans-things.com/wp-content/uploads/2018/10/FreeInternetExplorerBadge.gif" />
+<img src="https://dans-things.com/wp-content/uploads/2018/10/NetscapeNow.gif" />
+</div>
+
+<div align="center" style="flex">
+<img src="https://web.badges.world/badges/programs/Flash-80x15.gif" />
+<img src="https://web.badges.world/badges/operated/firefox03.gif" />
+</div>
 
 <br />
