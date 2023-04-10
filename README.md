@@ -4,10 +4,10 @@
 ### <div align="center">Front-End Dev, looking forward to new technologies. <br>Not working remotely since 2004 🚀</div>  
   
 
-- 🔭 I’m currently working on [ToMP4](https://github.com/Onion-subs/ToMP4) and OnionSubs Website  
+- 🔭 Currently working on a college project
   
 
-- 🌱 I’m currently learning Python  
+- 🌱 Currently learning more about JS
   
 
 - ❓ Ask me about anything related to HTML, CSS and JS  
