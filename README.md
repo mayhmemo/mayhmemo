@@ -4,10 +4,10 @@
 ### <div align="center">Front-End Dev, looking forward to new technologies. <br>Not working remotely since 2004 🚀</div>  
   
 
-- 🔭 Currently working on a college project
+- 🔭 Currently working on a personal project (WeShort)
   
 
-- 🌱 Currently learning more about JS
+- 🌱 Currently learning more about React
   
 
 - ❓ Ask me about anything related to HTML, CSS and JS  
