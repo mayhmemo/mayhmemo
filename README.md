@@ -4,7 +4,7 @@
 ### <div align="center">Front-End Dev, looking forward to new technologies. <br>Not working remotely since 2004 🚀</div>  
   
 
-- 🔭 Currently working on a personal project (WeShort)
+- 🔭 Currently working on a personal project (WeShort & OnionSubs Website)
   
 
 - 🌱 Currently learning more about React
@@ -56,23 +56,27 @@
 <br/>  
 
 
-## 🤝 Connect with me  
+## 🤝 Badges
 <div align="center">
 <a href="https://github.com/mayhmemo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/mayhmemo" target="_blank">
+<a href="https://twitter.com/mayhmemo" target="_blank" style="display:block">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/mayhm" target="_blank">
+<a href="https://linkedin.com/in/mayhm" target="_blank" style="display:block">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/mayhmemo" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<a href="https://anilist.co/user/Mayhm/" target="_blank" style="display:block">
+<img src=https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/mayhm_emo" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<br/>
+<a target="_blank" style="display:block">
+<img src=https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a target="_blank" style="display:block">
+<img src=https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
 </div>  
   
 
