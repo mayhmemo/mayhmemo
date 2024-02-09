@@ -4,10 +4,10 @@
 ### <div align="center">Front-End Dev, looking forward to new technologies. <br>Not working remotely since 2004 🚀</div>  
   
 
-- 🔭 Currently working on a personal project (WeShort & OnionSubs Website)
+- 🔭 Currently working on a personal project (Bubble - RSS Reader)
   
 
-- 🌱 Currently learning more about React
+- 🌱 Currently learning more about FastAPI
   
 
 - ❓ Ask me about anything related to HTML, CSS and JS  
@@ -33,6 +33,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://react.dev" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="50%">
@@ -71,7 +72,7 @@
 <img src=https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white style="margin-bottom: 5px;" />
 </a>
 <br/>
-<a target="_blank" style="display:block">
+<a href="https://discord.com/users/485182513895964683" target="_blank" style="display:block">
 <img src=https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a target="_blank" style="display:block">
