@@ -7,7 +7,7 @@
 - 🔭 Currently working on a personal project (Bubble - RSS Reader)
   
 
-- 🌱 Currently learning more about FastAPI
+- 🌱 Currently learning more about FastAPI and Figma
   
 
 - ❓ Ask me about anything related to HTML, CSS and JS  
