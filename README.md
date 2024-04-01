@@ -54,7 +54,25 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>   
+
+
+## 📊 Github Stats  
+<div align="center" style="flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayhmemo&show_icons=true&count_private=true&hide_border=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayhmemo&layout=compact&hide_border=true&theme=dracula"/>
+</div>
+
+
+<br/> 
+
+
+## 📑 Contributions to the community
+- Tasks - Bringing Astrid Tasks back from the dead
+  - [I helped translate the app to Brazilian Portuguese](https://github.com/tasks/tasks/blob/main/CHANGELOG.md)
+
+
+<br />
 
 
 ## 🤝 Badges
@@ -79,18 +97,9 @@
 <img src=https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 </div>  
-  
-
-<br/>  
 
 
-## 📊 Github Stats  
-<div align="center" style="flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayhmemo&show_icons=true&count_private=true&hide_border=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayhmemo&layout=compact&hide_border=true&theme=dracula"/>
-</div>
-
-<br/>  
+<br />
 
 
 ## 🎧 Listening
