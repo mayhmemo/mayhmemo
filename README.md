@@ -102,8 +102,9 @@
 <br />
 
 
+
 ## 🎧 Listening
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mpg3xkzfn6fwp90k8uugqn53d&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mpg3xkzfn6fwp90k8uugqn53d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>  
 
 <br/>  
 
