@@ -7,10 +7,10 @@
 - 🔭 Currently working on a personal project (Bubble - RSS Reader)
   
 
-- 🌱 Currently learning more about FastAPI and Figma
+- 🌱 Currently learning more about Figma and Rive
   
 
-- ❓ Ask me about anything related to HTML, CSS and JS  
+- ❓ Ask me about anything related to HTML, CSS, JS/TS and React
   
 
 - ⚡ Fun fact: I've born in the same MM-DD as Wade Watts (Ready Player One)  
