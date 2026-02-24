@@ -7,7 +7,7 @@
 - 🔭 Currently working on a personal project (Bubble - RSS Reader)
   
 
-- 🌱 Currently learning more about Angular
+- 🌱 Currently falling in love with Angular
   
 
 - ❓ Ask me about anything related to HTML, CSS, JS/TS and React
