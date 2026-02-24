@@ -10,7 +10,7 @@
 - 🌱 Currently falling in love with Angular
   
 
-- ❓ Ask me about anything related to HTML, CSS, JS/TS and React
+- ❓ Ask me about anything related to HTML, CSS, JS/TS, React and Angular
   
 
 - ⚡ Fun fact: I've born in the same MM-DD as Wade Watts (Ready Player One)  
