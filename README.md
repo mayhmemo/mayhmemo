@@ -89,25 +89,28 @@
 
 ## 🤝 Badges
 <div align="center">
-<a href="https://github.com/mayhmemo" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/mayhmemo" target="_blank" style="display:block">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://codeberg.org/mayhmemo" target="_blank">
+<img src=https://img.shields.io/badge/codeberg-%232185d0.svg?&style=for-the-badge&logo=codeberg&logoColor=white alt=codeberg style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/mayhm" target="_blank" style="display:block">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://anilist.co/user/Mayhm/" target="_blank" style="display:block">
-<img src=https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white style="margin-bottom: 5px;" />
+<a href="https://bolha.us/@mayhm" target="_blank" style="display:block">
+<img src=https://img.shields.io/badge/mastodon-%235c4ce2.svg?&style=for-the-badge&logo=mastodon&logoColor=white alt=mastodon style="margin-bottom: 5px;" />
+</a>
+<a href="https://bolha.forum/u/mayhm" target="_blank" style="display:block">
+<img src=https://img.shields.io/badge/lemmy-%23222222?style=for-the-badge&logo=lemmy&logoColor=white alt=lemmy style="margin-bottom: 5px;" />
 </a>
 <br/>
-<a href="https://discord.com/users/485182513895964683" target="_blank" style="display:block">
-<img src=https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://www.reddit.com/user/mayhm_emo/" target="_blank" style="display:block">
+<img src=https://img.shields.io/badge/reddit-%23ff4500?style=for-the-badge&logo=reddit&logoColor=white alt=reddit style="margin-bottom: 5px;" />
 </a>
-<a target="_blank" style="display:block">
-<img src=https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> 
+<a href="https://discord.com/users/485182513895964683" target="_blank" style="display:block">
+<img src=https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+</a>
+<a href="https://anilist.co/user/Mayhm/" target="_blank" style="display:block">
+<img src=https://img.shields.io/badge/aniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white alt=anilist style="margin-bottom: 5px;" />
+</a>
 </div>  
 
 
