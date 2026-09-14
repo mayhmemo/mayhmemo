@@ -81,7 +81,7 @@
 
 ## 📑 Contributions to the community
 - Tasks - Bringing Astrid Tasks back from the dead
-  - [I helped translate the app to Brazilian Portuguese](https://github.com/tasks/tasks/blob/main/CHANGELOG.md)
+  - [I helped translate the app to Brazilian Portuguese (see v.13.9)](https://github.com/tasks/tasks/blob/main/CHANGELOG.md)
 - NgMocks - Angular testing library for mocking
   - [Fixed a specific case where lib would throw an undefined error for random tests](https://github.com/help-me-mom/ng-mocks/commit/edff1feb0499bdc3cbc39c456c1689b1d7836b37)
 
