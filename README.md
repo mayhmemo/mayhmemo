@@ -120,8 +120,10 @@
 
 
 
-## 🎧 Listening
-<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mpg3xkzfn6fwp90k8uugqn53d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>  
+## 🎧 Recent Scrobbles
+<p align="center">
+  <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=mayhmemo&count=3&radius=20&profile=footer-right" alt="Last.fm recently played">
+</p>
 
 <br/>  
 
